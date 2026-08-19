@@ -38,3 +38,5 @@ Solutions by [rheallyc](https://codeforces.com/profile/rheallyc) (Codeforces Mas
 | [Number Reduction](https://codeforces.com/problemset/problem/1765/N) | 1500 | greedy | C++17 (GCC 7-32) |
 | [Triangles](https://codeforces.com/problemset/problem/1453/C) | 1700 | greedy, implementation | C++17 (GCC 7-32) |
 | [Twin Buildings](https://codeforces.com/problemset/problem/1252/H) | 1800 | greedy, implementation | C++17 (GCC 7-32) |
+
+<!-- maintenance note: Small formatting consistency pass on a solution header. (2026-08-19) -->
