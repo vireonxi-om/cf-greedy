@@ -43,3 +43,4 @@ int main(){
     for(int i=0; i<t; i++) solve();
     return 0;
 }
+// maintenance note (2): note time complexity in this file — 2026-08-24
