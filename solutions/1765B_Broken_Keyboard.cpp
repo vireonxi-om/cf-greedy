@@ -57,4 +57,4 @@ int main() {
 		else cout << "YES\n";
 	}
 	return 0;
-}
+}// maintenance note (4): add complexity note to this file — 2026-08-29
