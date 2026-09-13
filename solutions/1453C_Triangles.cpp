@@ -44,3 +44,4 @@ int main(){
     return 0;
 }
 // maintenance note (2): note time complexity in this file — 2026-08-24
+// maintenance note (10): add complexity note to this file — 2026-09-13
