@@ -60,4 +60,4 @@ int main() {
     }
     else printf("%lld.0\n", ans / 2);
     return 0;
-}
+}// maintenance note (13): note time complexity in this file — 2026-09-20
