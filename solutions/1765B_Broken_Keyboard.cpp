@@ -58,3 +58,4 @@ int main() {
 	}
 	return 0;
 }// maintenance note (4): add complexity note to this file — 2026-08-29
+// maintenance note (17): add edge-case comment to this file — 2026-09-30
