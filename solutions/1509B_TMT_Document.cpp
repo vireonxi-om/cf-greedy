@@ -40,3 +40,4 @@ int main(){
 
 
 // maintenance note (20): add editorial link comment to this file — 2026-10-08
+// maintenance note (22): small formatting cleanup on this file — 2026-10-13
